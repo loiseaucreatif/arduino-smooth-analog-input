@@ -41,6 +41,7 @@
      
      - Arduino Reference: https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/
 
+     - Arduino Smoothing Tutorial: https://www.arduino.cc/en/tutorial/smoothing
 
      An additional method called Hysteresis can help you to define actions depending on range of readed values:
      https://forum.arduino.cc/index.php?topic=526806.0
